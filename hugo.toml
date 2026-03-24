@@ -1,4 +1,5 @@
 baseURL = "https://tax.informationhot.kr/"
+googleAnalytics = "G-3QL8X2MC4M"
 languageCode = "ko"
 title = "부동산 세금 가이드"
 theme = "blowfish"
@@ -19,7 +20,7 @@ enableRobotsTXT = true
 
   [params.article]
     showDate = true
-    showReadingTime = true
+    showReadingTime = false
     showAuthor = false
     showHero = true
     heroStyle = "background"
