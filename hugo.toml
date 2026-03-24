@@ -1,9 +1,10 @@
-baseURL = "https://rap3.informationhot.kr/"
+baseURL = "https://tax.informationhot.kr/"
 languageCode = "ko"
 title = "부동산 세금 가이드"
 theme = "blowfish"
 enableRobotsTXT = true
-paginate = 20
+[pagination]
+  pagerSize = 20
 
 [params]
   colorScheme = "fire"
