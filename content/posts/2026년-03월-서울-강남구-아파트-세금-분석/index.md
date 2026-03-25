@@ -55,18 +55,10 @@ featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/rap-thumbnail
 서울 강남구 아파트 거래는 높은 세금이 부과될 수 있습니다. 구체적인 예시로 SK허브프리모, 래미안대치팰리스, 럭키(963) 아파트의 세금 계산을 통해 세금 부담을 확인할 수 있습니다. 적절한 절세 전략을 세운다면 세금 부담을 줄일 수 있습니다.
 
 ---
-> **이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.**
-
-
 <div style="margin:24px 0;padding:16px 20px;background:#f0f7ff;border-radius:12px;border:1px solid #d0e3ff;text-align:center;">
   <p style="margin:0 0 10px 0;font-size:1.05rem;font-weight:600;">📍 종부세기준 주변 지도로 확인하기</p>
   <a href="https://map.naver.com/v5/search/%EC%A2%85%EB%B6%80%EC%84%B8%EA%B8%B0%EC%A4%80%20%EB%B6%80%EB%8F%99%EC%82%B0%20%EC%A4%91%EA%B0%9C" target="_blank" rel="nofollow" style="display:inline-block;padding:10px 24px;background:#03C75A;color:white;border-radius:8px;text-decoration:none;font-weight:600;">네이버지도에서 보기</a>
 </div>
----
-
-> 이 글은 국토교통부 실거래가 데이터를 기반으로 작성되었으며, 세금 계산은 참고용입니다. 정확한 세금 상담은 세무사에게 문의하세요.
-
-> 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
 
 ---
 
@@ -75,16 +67,10 @@ featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/rap-thumbnail
 - [부동산 세금 가이드북 2026](https://link.coupang.com/a/cmDN5i)
 - [삼성 갤럭시탭 S10](https://link.coupang.com/a/cmDN6j)
 
-> **이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.**
-
-
-## 함께 읽으면 좋은 글
-
-- [2026년 03월 강남구 부동산 시세와 양도소득세](/posts/2026년-03월-강남구-부동산-시세와-양도소득세/)
-- [2026년 03월 강남구 부동산 시세 분석 및 종합부동산세](/posts/2026년-03월-강남구-부동산-시세-분석-및-종합부동산세/)
-- [2026년 03월 강서구 부동산 시세 변화와 종합부동산세](/posts/2026년-03월-강서구-부동산-시세-변화와-종합부동산세/)
-
+---
 
 ---
 
-> 이 글은 국토교통부 실거래가 공공데이터를 기반으로 작성되었습니다. 투자 판단의 책임은 본인에게 있으며, 최신 정보는 [국토교통부 실거래가 공개시스템](https://rt.molit.go.kr)에서 확인하세요.
+> 이 글은 국토교통부 실거래가 데이터를 기반으로 작성되었으며, 세금 계산은 참고용입니다. 정확한 세금 상담은 세무사에게 문의하세요.
+
+> 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.
