@@ -85,7 +85,7 @@ featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/rap-thumbnail
 
 ---
 
-## 스마트한 생활을 위한 추천 가전
+## 부동산 거래 시 유용한 추천 상품
 
 - [LG전자 디오스 인덕션 3구 방문설치](https://link.coupang.com/a/ea3SWv) — 744,790원
 - [KURUA 매트리스 무음 독립스프링 침대 매트리스간편 설치, 중간, 25cm](https://link.coupang.com/a/ea3SYp) — 184,800원---

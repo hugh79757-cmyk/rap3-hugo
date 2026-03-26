@@ -73,7 +73,7 @@ featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/rap-thumbnail
 
 ---
 
-## 스마트한 생활을 위한 추천 가전
+## 부동산 거래 시 유용한 추천 상품
 
 - [위즈웰 인헨스2 스팀 전기오븐, WOP200](https://link.coupang.com/a/eaX9Am) — 520,770원
 - [쿠쿠 아이편한 스텐 초음파 가습기 큐브 4L](https://link.coupang.com/a/eaX9C1) — 81,140원---

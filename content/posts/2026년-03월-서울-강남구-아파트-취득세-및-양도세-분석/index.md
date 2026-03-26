@@ -107,7 +107,7 @@ featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/rap-thumbnail
 
 ---
 
-## 스마트한 생활을 위한 추천 가전
+## 부동산 거래 시 유용한 추천 상품
 
 - [필립스 바리스티나 에스프레소 전자동 커피머신, BAR300/00, 밀키 화이트](https://link.coupang.com/a/ebaeNa) — 432,260원
 - [삼성전자 BESPOKE 스팀 9600 로봇청소기 방문설치](https://link.coupang.com/a/ebaePj) — 864,000원
