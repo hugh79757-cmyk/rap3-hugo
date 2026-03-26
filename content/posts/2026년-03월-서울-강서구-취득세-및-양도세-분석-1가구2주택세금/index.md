@@ -88,13 +88,7 @@ featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/rap-thumbnail
 ## 스마트한 생활을 위한 추천 가전
 
 - [LG전자 디오스 인덕션 3구 방문설치](https://link.coupang.com/a/ea3SWv) — 744,790원
-- [KURUA 매트리스 무음 독립스프링 침대 매트리스간편 설치, 중간, 25cm](https://link.coupang.com/a/ea3SYp) — 184,800원
-<div style="margin:24px 0;padding:16px 20px;background:#f0f7ff;border-radius:12px;border:1px solid #d0e3ff;text-align:center;">
-  <p style="margin:0 0 10px 0;font-size:1.05rem;font-weight:600;">📍 1가구2주택세금 주변 지도로 확인하기</p>
-  <a href="https://map.naver.com/v5/search/1%EA%B0%80%EA%B5%AC2%EC%A3%BC%ED%83%9D%EC%84%B8%EA%B8%88%20%EB%B6%80%EB%8F%99%EC%82%B0%20%EC%A4%91%EA%B0%9C" target="_blank" rel="nofollow" style="display:inline-block;padding:10px 24px;background:#03C75A;color:white;border-radius:8px;text-decoration:none;font-weight:600;">네이버지도에서 보기</a>
-</div>
-
----
+- [KURUA 매트리스 무음 독립스프링 침대 매트리스간편 설치, 중간, 25cm](https://link.coupang.com/a/ea3SYp) — 184,800원---
 
 ---
 

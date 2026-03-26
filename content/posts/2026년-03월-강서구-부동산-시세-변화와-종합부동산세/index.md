@@ -64,13 +64,7 @@ featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/rap-thumbnail
 
 2026년 03월 강서구의 부동산 시장은 안정적인 거래를 이어가고 있으며, 평균 시세는 77,686만원으로 집계되었습니다. 특히 강서힐스테이트의 최고가가 두드러지며, 종합부동산세와 거래량 변화는 중요한 요소로 작용하고 있습니다. 부동산에 대한 깊은 이해와 세밀한 접근이 필요합니다.
 
----
-<div style="margin:24px 0;padding:16px 20px;background:#f0f7ff;border-radius:12px;border:1px solid #d0e3ff;text-align:center;">
-  <p style="margin:0 0 10px 0;font-size:1.05rem;font-weight:600;">📍 종합부동산세 주변 지도로 확인하기</p>
-  <a href="https://map.naver.com/v5/search/%EC%A2%85%ED%95%A9%EB%B6%80%EB%8F%99%EC%82%B0%EC%84%B8%20%EB%B6%80%EB%8F%99%EC%82%B0%20%EC%A4%91%EA%B0%9C" target="_blank" rel="nofollow" style="display:inline-block;padding:10px 24px;background:#03C75A;color:white;border-radius:8px;text-decoration:none;font-weight:600;">네이버지도에서 보기</a>
-</div>
-
----
+------
 
 ## 부동산 투자자를 위한 추천
 

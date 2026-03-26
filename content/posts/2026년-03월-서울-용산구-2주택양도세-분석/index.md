@@ -76,13 +76,7 @@ featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/rap-thumbnail
 ## 스마트한 생활을 위한 추천 가전
 
 - [위즈웰 인헨스2 스팀 전기오븐, WOP200](https://link.coupang.com/a/eaX9Am) — 520,770원
-- [쿠쿠 아이편한 스텐 초음파 가습기 큐브 4L](https://link.coupang.com/a/eaX9C1) — 81,140원
-<div style="margin:24px 0;padding:16px 20px;background:#f0f7ff;border-radius:12px;border:1px solid #d0e3ff;text-align:center;">
-  <p style="margin:0 0 10px 0;font-size:1.05rem;font-weight:600;">📍 2주택양도세 주변 지도로 확인하기</p>
-  <a href="https://map.naver.com/v5/search/2%EC%A3%BC%ED%83%9D%EC%96%91%EB%8F%84%EC%84%B8%20%EB%B6%80%EB%8F%99%EC%82%B0%20%EC%A4%91%EA%B0%9C" target="_blank" rel="nofollow" style="display:inline-block;padding:10px 24px;background:#03C75A;color:white;border-radius:8px;text-decoration:none;font-weight:600;">네이버지도에서 보기</a>
-</div>
-
----
+- [쿠쿠 아이편한 스텐 초음파 가습기 큐브 4L](https://link.coupang.com/a/eaX9C1) — 81,140원---
 
 ---
 

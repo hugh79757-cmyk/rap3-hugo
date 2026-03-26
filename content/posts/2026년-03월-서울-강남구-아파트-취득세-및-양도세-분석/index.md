@@ -112,16 +112,7 @@ featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/rap-thumbnail
 - [필립스 바리스티나 에스프레소 전자동 커피머신, BAR300/00, 밀키 화이트](https://link.coupang.com/a/ebaeNa) — 432,260원
 - [삼성전자 BESPOKE 스팀 9600 로봇청소기 방문설치](https://link.coupang.com/a/ebaePj) — 864,000원
 
-> **이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.**
-
-
-<div style="margin:24px 0;padding:16px 20px;background:#f0f7ff;border-radius:12px;border:1px solid #d0e3ff;text-align:center;">
-  <p style="margin:0 0 10px 0;font-size:1.05rem;font-weight:600;">📍 2주택양도세 주변 지도로 확인하기</p>
-  <a href="https://map.naver.com/v5/search/2%EC%A3%BC%ED%83%9D%EC%96%91%EB%8F%84%EC%84%B8%20%EB%B6%80%EB%8F%99%EC%82%B0%20%EC%A4%91%EA%B0%9C" target="_blank" rel="nofollow" style="display:inline-block;padding:10px 24px;background:#03C75A;color:white;border-radius:8px;text-decoration:none;font-weight:600;">네이버지도에서 보기</a>
-</div>
-
-
-## 함께 읽으면 좋은 글
+> **이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.**## 함께 읽으면 좋은 글
 
 - [2026년 03월 강서구 부동산 시세 변화와 종합부동산세](/posts/2026년-03월-강서구-부동산-시세-변화와-종합부동산세/)
 - [2026년 03월 서울 용산구 2주택양도세 분석](/posts/2026년-03월-서울-용산구-2주택양도세-분석/)

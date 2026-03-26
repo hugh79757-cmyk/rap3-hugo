@@ -54,13 +54,7 @@ featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/rap-thumbnail
 
 서울 강남구 아파트 거래는 높은 세금이 부과될 수 있습니다. 구체적인 예시로 SK허브프리모, 래미안대치팰리스, 럭키(963) 아파트의 세금 계산을 통해 세금 부담을 확인할 수 있습니다. 적절한 절세 전략을 세운다면 세금 부담을 줄일 수 있습니다.
 
----
-<div style="margin:24px 0;padding:16px 20px;background:#f0f7ff;border-radius:12px;border:1px solid #d0e3ff;text-align:center;">
-  <p style="margin:0 0 10px 0;font-size:1.05rem;font-weight:600;">📍 종부세기준 주변 지도로 확인하기</p>
-  <a href="https://map.naver.com/v5/search/%EC%A2%85%EB%B6%80%EC%84%B8%EA%B8%B0%EC%A4%80%20%EB%B6%80%EB%8F%99%EC%82%B0%20%EC%A4%91%EA%B0%9C" target="_blank" rel="nofollow" style="display:inline-block;padding:10px 24px;background:#03C75A;color:white;border-radius:8px;text-decoration:none;font-weight:600;">네이버지도에서 보기</a>
-</div>
-
----
+------
 
 ## 부동산 투자자를 위한 추천
 
