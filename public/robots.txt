@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://tax.informationhot.kr/sitemap.xml
