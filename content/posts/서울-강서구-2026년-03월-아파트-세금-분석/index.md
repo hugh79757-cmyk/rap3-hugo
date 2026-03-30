@@ -13,7 +13,7 @@ featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/rap-thumbnail
 
 2026년 03월 서울 강서구에서의 부동산 거래 시장은 활발하게 움직이고 있습니다. 총 30건의 거래가 이루어졌으며, 이 지역의 아파트 거래 가격은 최고 175,000만원에서 최저 39,000만원까지 다양합니다. 평균 거래가는 90,573만원으로, 이 수치는 강서구의 부동산 시장의 건강성을 반영합니다. 이제 이 거래 데이터를 바탕으로 아파트 취득세와 양도소득세에 대해 자세히 분석해보겠습니다.
 
-부동산 거래에 있어서 세금은 중요한 요소입니다. 취득세와 양도소득세는 투자자나 주택 구매자에게 큰 부담이 될 수 있으며, 이를 정확히 이해하는 것은 필수적입니다. 특히 서울 강서구는 많은 신규 아파트 단지와 재건축 물량이 존재하여, 거래가 활발하게 이루어지는 곳입니다. 이러한 점을 고려할 때, 해당 아파트의 세금 정책에 대한 이해는 더욱 중요합니다.
+부동산 거래에 있어서 세금은 중요한 요소입니다. 취득세와 양도소득세는 투자자나 주택 구매자에게 큰 부담이 될 수 있으며, 이를 정확히 이해하는 것은 필수적입니다. 서울 강서구는 많은 신규 아파트 단지와 재건축 물량이 존재하여, 거래가 활발하게 이루어지는 곳입니다. 이러한 점을 고려할 때, 해당 아파트의 세금 정책에 대한 이해는 더욱 중요합니다.
 
 ## 실거래 사례 및 세금 계산
 
@@ -23,24 +23,24 @@ featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/rap-thumbnail
 
 - **거래가**: 106,000만원
 - **취득세 계산**: 6억원 초과 ~ 9억원 이하 구간 적용
-  - 106,000만원의 경우 6억 초과 9억 이하에 해당하므로, 세율은 약 1.5%입니다.
-  - 취득세 = 106,000만원 × 1.5% = 1,590만원
+ - 106,000만원의 경우 6억 초과 9억 이하에 해당하므로, 세율은 약 1.5%입니다.
+ - 취득세 = 106,000만원 × 1.5% = 1,590만원
 - **양도소득세 계산**: 보유 기간과 양도 차익을 가정하여 계산 필요
 
 ### 2. 내발산동 마곡수명산파크3단지
 
 - **거래가**: 76,000만원
 - **취득세 계산**: 6억원 이하 구간 적용
-  - 76,000만원은 6억원 이하이므로, 세율은 1.1%입니다.
-  - 취득세 = 76,000만원 × 1.1% = 836만원
+ - 76,000만원은 6억원 이하이므로, 세율은 1.1%입니다.
+ - 취득세 = 76,000만원 × 1.1% = 836만원
 - **양도소득세 계산**: 보유 기간과 양도 차익을 가정하여 계산 필요
 
 ### 3. 화곡동 강서힐스테이트
 
 - **거래가**: 175,000만원
 - **취득세 계산**: 9억원 초과 구간 적용
-  - 175,000만원의 경우 취득세율은 3.3%입니다.
-  - 취득세 = 175,000만원 × 3.3% = 5,775만원
+ - 175,000만원의 경우 취득세율은 3.3%입니다.
+ - 취득세 = 175,000만원 × 3.3% = 5,775만원
 - **양도소득세 계산**: 보유 기간과 양도 차익을 가정하여 계산 필요
 
 이와 같이 강서구 내 아파트 거래는 각각 다른 세금 구조를 가지고 있으며, 세금 계산의 정확성을 높이기 위해서는 거래가와 보유 기간 등을 정확히 반영해야 합니다.
@@ -60,14 +60,14 @@ featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/rap-thumbnail
 
 
 <div style="margin:28px 0;padding:18px 22px;background:linear-gradient(135deg,#f8f9ff 0%,#e8f4fd 100%);border-radius:14px;border-left:4px solid #3182ce;">
-  <p style="margin:0 0 6px 0;font-size:0.85rem;color:#718096;">📌 놓치면 아쉬운 글</p>
-  <a href="/posts/2026년-03월-강남구-부동산-시세와-양도소득세/" style="font-size:1.05rem;font-weight:600;color:#2d3748;text-decoration:none;">2026년 03월 강남구 부동산 시세와 양도소득세</a>
+ <p style="margin:0 0 6px 0;font-size:0.85rem;color:#718096;">📌 놓치면 아쉬운 글</p>
+ <a href="/posts/2026년-03월-강남구-부동산-시세와-양도소득세/" style="font-size:1.05rem;font-weight:600;color:#2d3748;text-decoration:none;">2026년 03월 강남구 부동산 시세와 양도소득세</a>
 </div>
 
 ## 절세 팁
 
 1. **장기보유특별공제 활용**: 보유 기간이 길어질수록 세금 부담이 줄어드는 구조입니다. 3년 이상 보유하면 최대 30%까지 세금 공제를 받을 수 있습니다.
-   
+
 2. **1주택 비과세 요건 준수**: 1주택자가 특정 요건을 충족하면 양도소득세가 면제됩니다. 보유 2년, 실거주 2년 요건을 충족해야 하니 주의해야 합니다.
 
 3. **복수 주택 소유 자제**: 다주택자의 경우 세금 부담이 크기 때문에, 주택을 보유하는 수를 최소화하는 것이 중요합니다.
@@ -91,8 +91,8 @@ featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/rap-thumbnail
 
 
 <div style="margin:24px 0;padding:16px 20px;background:#f0f7ff;border-radius:12px;border:1px solid #d0e3ff;text-align:center;">
-  <p style="margin:0 0 10px 0;font-size:1.05rem;font-weight:600;">📍 상속세면제한도 주변 지도로 확인하기</p>
-  <a href="https://map.naver.com/v5/search/%EC%83%81%EC%86%8D%EC%84%B8%EB%A9%B4%EC%A0%9C%ED%95%9C%EB%8F%84%20%EB%B6%80%EB%8F%99%EC%82%B0%20%EC%A4%91%EA%B0%9C" target="_blank" rel="nofollow" style="display:inline-block;padding:10px 24px;background:#03C75A;color:white;border-radius:8px;text-decoration:none;font-weight:600;">네이버지도에서 보기</a>
+ <p style="margin:0 0 10px 0;font-size:1.05rem;font-weight:600;">📍 상속세면제한도 주변 지도로 확인하기</p>
+ <a href="https://map.naver.com/v5/search/%EC%83%81%EC%86%8D%EC%84%B8%EB%A9%B4%EC%A0%9C%ED%95%9C%EB%8F%84%20%EB%B6%80%EB%8F%99%EC%82%B0%20%EC%A4%91%EA%B0%9C" target="_blank" rel="nofollow" style="display:inline-block;padding:10px 24px;background:#03C75A;color:white;border-radius:8px;text-decoration:none;font-weight:600;">네이버지도에서 보기</a>
 </div>
 
 

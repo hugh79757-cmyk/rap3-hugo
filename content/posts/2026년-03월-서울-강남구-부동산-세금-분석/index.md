@@ -11,7 +11,7 @@ featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/rap-thumbnail
 
 ## 서울 강남구 부동산 세금 이슈 개요
 
-서울 강남구는 부동산 시장에서 항상 주목받는 지역으로, 다양한 아파트 거래가 이루어지고 있습니다. 특히 최근에는 청담동, 압구정동, 역삼동 등에서의 거래가 활발하게 이루어지고 있으며, 이로 인해 세금 문제에 대한 관심이 높아지고 있습니다. 부동산 거래 시 가장 중요한 요소 중 하나가 바로 세금입니다. 특히 취득세와 양도소득세는 거래자에게 큰 부담이 될 수 있으므로, 이들 세금의 세부 사항을 잘 이해하고 있는 것이 필요합니다.
+서울 강남구는 부동산 시장에서 항상 주목받는 지역으로, 다양한 아파트 거래가 이루어지고 있습니다. 최근에는 청담동, 압구정동, 역삼동 등에서의 거래가 활발하게 이루어지고 있으며, 이로 인해 세금 문제에 대한 관심이 높아지고 있습니다. 부동산 거래 시 가장 중요한 요소 중 하나가 바로 세금입니다. 취득세와 양도소득세는 거래자에게 큰 부담이 될 수 있으므로, 이들 세금의 세부 사항을 잘 이해하고 있는 것이 필요합니다.
 
 2026년 03월의 거래 데이터에 따르면, 강남구의 아파트 가격은 최고 84억 원에서 최저 3천만 원까지 다양하게 형성되어 있습니다. 이러한 다양한 가격대에 따라 각 거래에 적용되는 세금이 달라지므로, 실거래가를 기준으로 세금 계산을 통해 실제 부담해야 할 세액을 분석해보겠습니다.
 
@@ -19,13 +19,13 @@ featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/rap-thumbnail
 
 강남구의 최근 거래 내역 중 일부를 선택하여 각각의 취득세를 계산해보겠습니다. 취득세는 구매자가 부동산을 취득할 때 발생하는 세금으로, 가격대별로 세율이 달라집니다. 아래 표는 거래 사례에 따른 취득세 계산 결과를 보여줍니다.
 
-| 거래일       | 아파트명                       | 면적(㎡) | 거래가(만원) | 세율(%) | 취득세(만원) |
+| 거래일 | 아파트명 | 면적(㎡) | 거래가(만원) | 세율(%) | 취득세(만원) |
 |--|-|----|--|---|---|
-| 2026.03.26   | 청담자이                      | 89.356   | 447,500      | 3.3     | 14,781        |
-| 2026.03.09   | 한양1차                       | 63.87    | 357,000      | 2.2     | 7,854         |
-| 2026.03.07   | 강남웅진베어스빌              | 20.63    | 32,900       | 1.1     | 362           |
-| 2026.03.06   | 신동아(22)                    | 114.34   | 259,000      | 1.5     | 3,885         |
-| 2026.03.21   | 금호어울림                   | 132.88   | 238,000      | 1.5     | 3,570         |
+| 2026.03.26 | 청담자이 | 89.356 | 447,500 | 3.3 | 14,781 |
+| 2026.03.09 | 한양1차 | 63.87 | 357,000 | 2.2 | 7,854 |
+| 2026.03.07 | 강남웅진베어스빌 | 20.63 | 32,900 | 1.1 | 362 |
+| 2026.03.06 | 신동아(22) | 114.34 | 259,000 | 1.5 | 3,885 |
+| 2026.03.21 | 금호어울림 | 132.88 | 238,000 | 1.5 | 3,570 |
 
 ### 취득세 계산 방법
 
@@ -52,8 +52,8 @@ featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/rap-thumbnail
 
 
 <div style="margin:28px 0;padding:18px 22px;background:linear-gradient(135deg,#f8f9ff 0%,#e8f4fd 100%);border-radius:14px;border-left:4px solid #3182ce;">
-  <p style="margin:0 0 6px 0;font-size:0.85rem;color:#718096;">📌 놓치면 아쉬운 글</p>
-  <a href="/posts/2026년-03월-서울-강서구-아파트-세금-분석-및-양도소득세율/" style="font-size:1.05rem;font-weight:600;color:#2d3748;text-decoration:none;">2026년 03월 서울 강서구 아파트 세금 분석 및 양도소득세율</a>
+ <p style="margin:0 0 6px 0;font-size:0.85rem;color:#718096;">📌 놓치면 아쉬운 글</p>
+ <a href="/posts/2026년-03월-서울-강서구-아파트-세금-분석-및-양도소득세율/" style="font-size:1.05rem;font-weight:600;color:#2d3748;text-decoration:none;">2026년 03월 서울 강서구 아파트 세금 분석 및 양도소득세율</a>
 </div>
 
 ## 절세 팁
@@ -81,8 +81,8 @@ featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/rap-thumbnail
 
 
 <div style="margin:24px 0;padding:16px 20px;background:#f0f7ff;border-radius:12px;border:1px solid #d0e3ff;text-align:center;">
-  <p style="margin:0 0 10px 0;font-size:1.05rem;font-weight:600;">📍 과세표준 주변 지도로 확인하기</p>
-  <a href="https://map.naver.com/v5/search/%EA%B3%BC%EC%84%B8%ED%91%9C%EC%A4%80%20%EB%B6%80%EB%8F%99%EC%82%B0%20%EC%A4%91%EA%B0%9C" target="_blank" rel="nofollow" style="display:inline-block;padding:10px 24px;background:#03C75A;color:white;border-radius:8px;text-decoration:none;font-weight:600;">네이버지도에서 보기</a>
+ <p style="margin:0 0 10px 0;font-size:1.05rem;font-weight:600;">📍 과세표준 주변 지도로 확인하기</p>
+ <a href="https://map.naver.com/v5/search/%EA%B3%BC%EC%84%B8%ED%91%9C%EC%A4%80%20%EB%B6%80%EB%8F%99%EC%82%B0%20%EC%A4%91%EA%B0%9C" target="_blank" rel="nofollow" style="display:inline-block;padding:10px 24px;background:#03C75A;color:white;border-radius:8px;text-decoration:none;font-weight:600;">네이버지도에서 보기</a>
 </div>
 
 
