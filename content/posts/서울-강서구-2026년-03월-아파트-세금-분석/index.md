@@ -1,4 +1,5 @@
 ---
+
 title: "서울 강서구 2026년 03월 아파트 세금 분석"
 slug: '서울-강서구-2026년-03월-아파트-세금-분석'
 date: '2026-03-27T14:30:34+09:00'
@@ -8,7 +9,6 @@ tags: ['취득세', '양도세', '상속세면제한도']
 categories: ['부동산세금']
 featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/rap-thumbnails/20260327-55aeb64503.webp"
 ---
-
 ## 서울 강서구 아파트 세금 이슈 개요
 
 2026년 03월 서울 강서구에서의 부동산 거래 시장은 활발하게 움직이고 있습니다. 총 30건의 거래가 이루어졌으며, 이 지역의 아파트 거래 가격은 최고 175,000만원에서 최저 39,000만원까지 다양합니다. 평균 거래가는 90,573만원으로, 이 수치는 강서구의 부동산 시장의 건강성을 반영합니다. 이제 이 거래 데이터를 바탕으로 아파트 취득세와 양도소득세에 대해 자세히 분석해보겠습니다.
@@ -45,19 +45,11 @@ featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/rap-thumbnail
 
 이와 같이 강서구 내 아파트 거래는 각각 다른 세금 구조를 가지고 있으며, 세금 계산의 정확성을 높이기 위해서는 거래가와 보유 기간 등을 정확히 반영해야 합니다.
 
-| 거래 사례 | 거래가(만원) | 취득세(만원) | 양도소득세(가정)| 
-|---|---|---|---|
-| 방화동 방화4단지 | 106,000 | 1,590 | - |
-| 내발산동 마곡수명산파크3단지 | 76,000 | 836 | - |
-| 화곡동 강서힐스테이트 | 175,000 | 5,775 | - |
-
 ## 양도소득세 계산의 중요성
 
 양도소득세는 주택을 양도할 때 발생하는 세금으로, 보유기간, 양도 차익, 그리고 보유 주택 수에 따라 세율이 결정됩니다. 1주택자에게는 세금 면제가 발생할 수 있지만, 다주택자의 경우 세금 부담이 크게 증가합니다. 보유 기간에 따라 세금 차이가 크기 때문에, 거래 시 양도소득세의 계산을 충분히 고려해야 합니다.
 
 또한, 장기보유특별공제를 활용하면 보유 기간에 따라 세금을 줄일 수 있기 때문에, 장기 투자 시 이점을 극대화할 수 있습니다. 
-
-
 
 <div style="margin:28px 0;padding:18px 22px;background:linear-gradient(135deg,#f8f9ff 0%,#e8f4fd 100%);border-radius:14px;border-left:4px solid #3182ce;">
  <p style="margin:0 0 6px 0;font-size:0.85rem;color:#718096;">📌 놓치면 아쉬운 글</p>
@@ -89,19 +81,16 @@ featureimage: "https://pub-2f5c7af1c303419a933069212bc25874.r2.dev/rap-thumbnail
 
 > **이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.**
 
-
 <div style="margin:24px 0;padding:16px 20px;background:#f0f7ff;border-radius:12px;border:1px solid #d0e3ff;text-align:center;">
  <p style="margin:0 0 10px 0;font-size:1.05rem;font-weight:600;">📍 상속세면제한도 주변 지도로 확인하기</p>
  <a href="https://map.naver.com/v5/search/%EC%83%81%EC%86%8D%EC%84%B8%EB%A9%B4%EC%A0%9C%ED%95%9C%EB%8F%84%20%EB%B6%80%EB%8F%99%EC%82%B0%20%EC%A4%91%EA%B0%9C" target="_blank" rel="nofollow" style="display:inline-block;padding:10px 24px;background:#03C75A;color:white;border-radius:8px;text-decoration:none;font-weight:600;">네이버지도에서 보기</a>
 </div>
-
 
 ## 함께 읽으면 좋은 글
 
 - [1가구2주택세금 분석: 2026년 03월 서울 강서구](/posts/1가구2주택세금-분석-2026년-03월-서울-강서구/)
 - [2026년 03월 서울 강남구의 취득세 및 양도세 분석](/posts/2026년-03월-서울-강남구의-취득세-및-양도세-분석/)
 - [2026년 03월 서울 용산구 2주택양도세 분석](/posts/2026년-03월-서울-용산구-2주택양도세-분석/)
-
 
 ---
 
