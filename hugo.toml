@@ -2,6 +2,7 @@ baseURL = "https://tax.informationhot.kr/"
 languageCode = "ko"
 title = "부동산 세금 가이드"
 theme = "blowfish"
+themesDir = "/Users/twinssn/Projects/shared-themes"
 enableRobotsTXT = true
 [pagination]
   pagerSize = 20
