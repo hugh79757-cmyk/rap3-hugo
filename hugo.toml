@@ -1,9 +1,7 @@
 baseURL = "https://tax.informationhot.kr/"
-googleAnalytics = "G-3QL8X2MC4M"
 languageCode = "ko"
 title = "부동산 세금 가이드"
 theme = "blowfish"
-themesDir = "/Users/twinssn/Projects/shared-themes"
 enableRobotsTXT = true
 [pagination]
   pagerSize = 20
@@ -58,6 +56,9 @@ enableRobotsTXT = true
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
+
+    [markup.goldmark.extensions]
+      strikethrough = false
 
 [[menus.main]]
   name = "글 목록"
